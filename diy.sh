@@ -2,7 +2,7 @@
 #=================================================
 # Description: DIY script
 # Lisence: MIT
-# Author: P3TERX
+# Author: Malong
 # Blog: https://p3terx.com
 #=================================================
 # Modify default IP
